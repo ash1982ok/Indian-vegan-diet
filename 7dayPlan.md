@@ -3,15 +3,15 @@
 
   ## Breakfast
 
-    ### Option 1
-    ----------
-      Sprouted Chana  - 1 bowl
-      Green tea (without caffine) / Kadha - 1 cup
+  ### Option 1
+  ----------
+    Sprouted Chana  - 1 bowl
+    Green tea (without caffine) / Kadha - 1 cup
 
-    ### Option 2
-    -----------
-      Baked / boiled potatoes with chutney
-      Baked / boiled sweet potatoes with chutney
+  ### Option 2
+  -----------
+    Baked / boiled potatoes with chutney
+    Baked / boiled sweet potatoes with chutney
 
   ## Lunch 
 
